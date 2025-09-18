@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horario</title>
+</head>
+<body>
+    <!--                           Tabelas                                    -->  
+       <table border="1" width="20%"></table>                                        
+       <tr>
+        <td align="rigth"valing="bottom">Dado1</td>
+        <td align="rigth"valing="bottom">Dado2</td> 
+    </tr> 
+     <tr>
+        <td align="rigth"valing="bottom">Dado3</td>
+        <td align="rigth"valing="bottom">Dado4</td> 
+    </tr>   
+    <tr>
+        <td align="rigth"valing="bottom">Dado5</td>
+        <td align="rigth"valing="bottom">Dado6</td>   
+    <tr>   
+    </table>
+    
+</body>
+</html>
+

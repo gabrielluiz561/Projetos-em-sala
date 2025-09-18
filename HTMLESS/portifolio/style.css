@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(48, 139, 224);
+    color: rgb(255, 255, 255);
+    font-family: Rokkitt;
+    }
+
+    span {
+        color:rgb(255, 255, 255);
+    }
+    .enfase {
+        font-weight: bolder;
+    }
